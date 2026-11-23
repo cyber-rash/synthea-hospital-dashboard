@@ -1,5 +1,7 @@
 # Synthea Hospital — Data Analitikası
 
+![Synthea Hospital R Shiny dashboard-unun ümumi görünüşü](dashboard-preview.jpg)
+
 Simulyasiya olunmuş klinik məlumatlar əsasında hazırlanmış R Shiny tətbiqi. Müraciət trendlərini, pasiyent qruplarını və ARIMA proqnozlarını göstərir.
 
 [Canlı R Shiny tətbiqi](https://rashidjafarov.shinyapps.io/synthea)
@@ -14,3 +16,4 @@ shiny::runApp()
 ```
 
 Tətbiq hazır yekun göstəricilərlə açılır. Uyğun sintetik `patients.rds` və `encounters.rds` faylları mövcuddursa, onları `app.R` ilə eyni qovluğa yerləşdirərək yerli hesablamaları aktivləşdirə bilərsiniz.
+
