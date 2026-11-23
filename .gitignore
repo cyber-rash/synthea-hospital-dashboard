@@ -1,0 +1,14 @@
+.Rhistory
+.RData*
+.Rproj.user/
+rsconnect/
+.Renviron
+.env
+.env.*
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+data/
+patients.rds
+encounters.rds
+*.zip
